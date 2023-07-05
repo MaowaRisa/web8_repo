@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    width: 50%;
+    height: 200px;
+    background-color: salmon;
+    box-shadow: 5px 10px 5px gray;
+    margin: 10px auto;
+    text-align: center;
+}
